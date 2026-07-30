@@ -128,7 +128,7 @@ I enjoy solving complex problems, designing maintainable solutions, and working 
 ![JasperReports](https://img.shields.io/badge/JasperReports-D64A29?style=for-the-badge)
 ![Crystal Reports](https://img.shields.io/badge/Crystal_Reports-0FAAFF?style=for-the-badge)
 
-### Metodologías y gestión
+### Methodologies & Project Management
 
 ![Agile](https://img.shields.io/badge/Agile-2496ED?style=for-the-badge)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
